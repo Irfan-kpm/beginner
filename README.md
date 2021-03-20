@@ -1,4 +1,7 @@
-# beginner
+# termux.py
+   This tool was made for termux beginners
+            -----------------
+# termux
 pkg install git
 
 pkg install python
