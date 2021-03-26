@@ -22,7 +22,7 @@ os.system("clear")
 #####
 print("--setup storage--")
 time.sleep(2)
-os.system("termux-setup-storage -y")
+os.system("termux-setup-storage ")
 time.sleep(1)
 os.system("clear")
 ####
