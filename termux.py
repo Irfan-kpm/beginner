@@ -1,6 +1,6 @@
 import os
 import time
-import pyfiglet
+
 print("+-----------------------------------------------+")
 print("        -------[ @Irfan_kpm ]---------")
 print("[#] This tool was made for termux beginners")
